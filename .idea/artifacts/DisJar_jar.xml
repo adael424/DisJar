@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DisJar:jar">
+    <output-path>$USER_HOME$</output-path>
+    <root id="archive" name="DisJar.jar">
+      <element id="module-output" name="DisJar" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
